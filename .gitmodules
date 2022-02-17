@@ -77,3 +77,8 @@
 	path = OCA/website
 	url = git@github.com:OCA/website.git
 	branch = 13.0
+
+[submodule "landoo-es/custom-imeguisa"]
+	path = landoo-es/custom-imeguisa
+	url = git@github.com:landoo-es/custom-imeguisa.git
+	branch = 13.0
